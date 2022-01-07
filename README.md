@@ -1,1 +1,2 @@
-# MatterJSBoilerPlate_Master
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
